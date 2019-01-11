@@ -3,18 +3,18 @@
         {
             "name": "MinGW64",
             "intelliSenseMode": "gcc-x64",
-            "compilerPath": "C:/Mingw64/bin/g++.exe",
+            "compilerPath": "C:/MinGW64/mingw64/bin/g++.exe",
             "includePath": [
                 "${workspaceFolder}",
-                "C:/Mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/**",
-                "C:/Mingw64/x86_64-w64-mingw32/include/**"
+                "C:/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/**",
+                "C:/MinGW64/mingw64/x86_64-w64-mingw32/include/**"
             ],
 
             "browse": {
                 "path": [
                     "${workspaceFolder}",
-                    "C:/Mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/**",
-                    "C:/Mingw64/x86_64-w64-mingw32/include/**"
+                    "C:/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/**",
+                    "C:/MinGW64/mingw64/x86_64-w64-mingw32/include/**"
                 ]
             },
             "limitSymbolsToIncludedHeaders": true,
